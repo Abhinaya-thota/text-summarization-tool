@@ -1,5 +1,3 @@
-# text-summarization-tool
-Interactive NLP text summarization tool with clustering, entity recognition, translation, and text-to-speech
 # Text Summarization Tool
 
 An interactive text summarization app with three modes — algorithmic clustering, keyword-based extraction, and named entity visualization — plus multilingual translation and text-to-speech output.
